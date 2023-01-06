@@ -25,33 +25,25 @@ This is a web based application developed for health related based website in in
 ## Screenshots
 
 
-![Screenshot 2022-12-01 181539](https://user-images.githubusercontent.com/110113992/209551383-dcbaa038-2020-419d-a56f-76c4cab31a19.jpg)
+![Screenshot (57)](https://user-images.githubusercontent.com/110113992/210934461-8cb24c71-acf7-4f81-947f-653f9c121441.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/110113992/210934497-e71884cb-2e88-4866-9adc-3ba26602a846.png)
+ ![Screenshot (59)](https://user-images.githubusercontent.com/110113992/210934523-76f1eb84-b8ec-4b18-a4bc-47c2a51df76e.png)Us -
+ ![Screenshot (61)](https://user-images.githubusercontent.com/110113992/210934769-24bf1753-c1f3-4fe8-a500-fab725e5a7c5.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/110113992/210934792-1506618c-c1de-43b7-b68f-8994e46701bb.png)
 
-![Screenshot 2022-12-01 182449](https://user-images.githubusercontent.com/110113992/209551404-7218dcec-853e-4e12-8e80-ad6ad11b9992.jpg)
-
-![Screenshot 2022-12-01 181608](https://user-images.githubusercontent.com/110113992/209551391-b081ab47-6ad5-4521-bad1-0f0ec6ba781b.jpg)
-![Screenshot 2022-12-01 181256](https://user-images.githubusercontent.com/110113992/209551365-21e96ba2-2f5c-4d2c-9721-c25682465f4f.jpg)
-
-
-### About Us -
-
-![Screenshot 2022-12-01 181256](https://user-images.githubusercontent.com/110113992/209551535-777a80a7-1c50-425e-91e0-0213f7444dab.jpg)
+ 
+### About
+![Screenshot (57)](https://user-images.githubusercontent.com/110113992/210934461-8cb24c71-acf7-4f81-947f-653f9c121441.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/110113992/210934497-e71884cb-2e88-4866-9adc-3ba26602a846.png)
 
 ### Services
-![Screenshot 2022-12-01 181539](https://user-images.githubusercontent.com/110113992/209551383-dcbaa038-2020-419d-a56f-76c4cab31a19.jpg)
+![Screenshot (59)](https://user-images.githubusercontent.com/110113992/210934523-76f1eb84-b8ec-4b18-a4bc-47c2a51df76e.png)Us 
 
-### Contact us -
-
-
-![Screenshot 2022-12-01 181608](https://user-images.githubusercontent.com/110113992/209551635-6aa094ee-c876-4fe0-97bb-59ab7091702a.jpg)
-![Screenshot 2022-12-01 182928](https://user-images.githubusercontent.com/110113992/209551654-a8ec5c20-0a37-4e56-8020-45bd54e9cfa2.jpg)
+### Contact us 
+![Screenshot (61)](https://user-images.githubusercontent.com/110113992/210934769-24bf1753-c1f3-4fe8-a500-fab725e5a7c5.png)
 
 ### health bot
-
-![Screenshot 2022-12-01 182449](https://user-images.githubusercontent.com/110113992/209551662-b7485e38-04eb-43b3-911e-99f0302af30e.jpg)
-![Screenshot 2022-12-01 182722](https://user-images.githubusercontent.com/110113992/209551666-5438d4db-9e65-496f-ad47-f4792b581da2.jpg)
-
-
+![Screenshot (60)](https://user-images.githubusercontent.com/110113992/210934792-1506618c-c1de-43b7-b68f-8994e46701bb.png)
 
 ## Tech Stack 💻
 
